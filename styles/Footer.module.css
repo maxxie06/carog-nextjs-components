@@ -1,0 +1,19 @@
+.footerCourt {
+  text-align: center;
+  margin-top: 40px;
+  padding: 15px 0;
+  font-size: 0.95rem;
+  color: #444;
+  font-family: "Trebuchet MS", sans-serif;
+  position: relative;
+}
+
+.footerCourt::before {
+  content: "";
+  display: block;
+  width: 60%;
+  height: 3px;
+  margin: 0 auto 12px auto;
+  background-color: #ff6600; 
+  border-radius: 2px;
+}

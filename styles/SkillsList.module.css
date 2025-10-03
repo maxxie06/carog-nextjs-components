@@ -1,0 +1,30 @@
+.skillCourt {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.skillTitle {
+  font-size: 1.4rem;
+  margin-bottom: 10px;
+}
+
+.skillNet {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.skillBall {
+  background: #ffb347;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background 0.3s;
+}
+
+.skillBall:hover {
+  background: #ff7f50;
+}

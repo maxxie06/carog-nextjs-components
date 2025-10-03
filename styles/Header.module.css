@@ -1,0 +1,20 @@
+.ballHeader {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.pageTitle {
+  font-size: 2.8rem;
+  font-family: "Pacifico", cursive; 
+  color: #ff6600; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25); 
+  margin: 0;
+}
+
+.subTitle {
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: #ffffff;
+  margin-top: 8px;
+  font-family: "Trebuchet MS", sans-serif;
+}
